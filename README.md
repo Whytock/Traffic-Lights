@@ -1,2 +1,2 @@
 # Traffic-Lights
-Traffic lights for Dexter's city
+This is the traffic lights system for Dexter's City
